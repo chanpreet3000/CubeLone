@@ -13,8 +13,7 @@ Currently available only on Android
 
 Google Play Store: - https://play.google.com/store/apps/details?id=com.Channi.CubeLone
 
-
-CubeLone Includes levels like
+### **CubeLone Includes levels like.**
 
 Classic - White themed and obstacles are geyish .
 
